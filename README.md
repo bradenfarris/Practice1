@@ -1,7 +1,11 @@
 ----
-name: Braden Farris
-date: 24 August 2014
-class: English Literature
+
+Name: Braden Farris
+
+Date: 24 August 2014
+
+Class: English Literature
+
 ----
 
 # Review and Analysis of Pi’s Religious Journey
